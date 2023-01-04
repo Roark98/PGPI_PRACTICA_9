@@ -12,3 +12,7 @@ Práctica 9 de la asignatura de Planificación y Gestión de Proyectos Informát
 ## Rama 2: Tarea B
 * Encargado de la rama: Pedro García Galindo (Miembro ficticio del proyecto)
 * Participante de la rama: Roberto Castro Izurieta
+
+## Rama 3: Tarea C
+* Encargado de la rama: Roberto Castro Izurieta
+* Participante de la rama: Pedro García Galindo (Miembro ficticio del proyecto)
