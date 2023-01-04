@@ -1,4 +1,4 @@
-elements = ['Pink', 'Blue', 'Green', 'White']
+elements = ['Pink', 'Blue', 'Green', 'White', 'Black']
 
 for element in elements:
   print(element)
